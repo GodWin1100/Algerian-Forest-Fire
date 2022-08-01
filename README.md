@@ -30,3 +30,43 @@
 7. AdaBoost
 8. XGBoost
 9. CATBoost
+
+# Deployed on Heroku
+
+- Deployed Link: https://aff-prediction.herokuapp.com/
+- Classification Prediction API
+  - API: https://aff-prediction.herokuapp.com/classification
+  - BODY: JSON data
+  ```json
+  {
+  	"day": 21,
+  	"month": "Aug",
+  	"Temperature": 36,
+  	"RH": 58,
+  	"Ws": 19,
+  	"Rain": 0.0,
+  	"FFMC": 88.6,
+  	"DMC": 29.6,
+  	"DC": 141.1,
+  	"ISI": 9.2,
+  	"Region": "Bejaia"
+  }
+  ```
+- Regression Prediction API
+  - API: https://aff-prediction.herokuapp.com/regression
+  - BODY: JSON data
+  ```json
+  {
+  	"day": 21,
+  	"month": "Aug",
+  	"RH": 58,
+  	"Ws": 19,
+  	"Rain": 0.0,
+  	"FFMC": 88.6,
+  	"DMC": 29.6,
+  	"DC": 141.1,
+  	"ISI": 9.2,
+  	"Classes": "fire",
+  	"Region": "Bejaia"
+  }
+  ```
