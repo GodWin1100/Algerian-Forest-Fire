@@ -1,0 +1,50 @@
+day,month,Temperature,RH,Ws,Rain,FFMC,DMC,DC,ISI,Region,Classes
+21,Aug,36,58,19,0.0,88.6,29.6,141.1,9.2,Bejaia,fire
+15,Jun,28,80,17,3.1,49.4,3.0,7.4,0.4,Bejaia,not fire
+24,Jun,32,66,17,0.0,85.9,11.2,55.8,5.6,Bejaia,fire
+7,Aug,34,63,13,2.9,69.7,7.2,9.8,1.2,Sidi-Bel Abbes,not fire
+12,Aug,35,51,13,0.3,81.3,15.6,75.1,2.5,Bejaia,not fire
+20,Sep,34,58,13,0.2,79.5,18.7,88.0,2.1,Sidi-Bel Abbes,not fire
+11,Aug,40,31,15,0.0,94.2,22.5,46.3,16.6,Sidi-Bel Abbes,fire
+28,Sep,27,87,29,0.5,45.9,3.5,7.9,0.4,Sidi-Bel Abbes,not fire
+28,Aug,35,56,14,0.4,79.2,37.0,166.0,2.1,Sidi-Bel Abbes,not fire
+17,Aug,42,24,9,0.0,96.0,30.3,76.4,15.7,Sidi-Bel Abbes,fire
+28,Jul,33,76,15,0.0,86.5,24.4,117.8,5.6,Bejaia,fire
+10,Jul,34,51,16,3.8,77.5,8.0,9.5,2.0,Sidi-Bel Abbes,not fire
+21,Aug,36,71,15,0.0,86.0,36.9,117.1,5.1,Sidi-Bel Abbes,fire
+23,Jul,31,71,17,0.0,87.3,46.6,99.0,6.9,Sidi-Bel Abbes,fire
+6,Jul,32,63,14,0.0,87.0,10.9,37.0,5.6,Bejaia,fire
+25,Jun,34,70,16,0.0,86.0,12.8,25.6,5.4,Sidi-Bel Abbes,fire
+24,Jul,28,78,16,0.1,70.0,9.6,79.7,1.4,Bejaia,not fire
+29,Jun,37,36,13,0.6,86.2,17.9,36.7,4.8,Sidi-Bel Abbes,fire
+15,Sep,24,82,15,0.4,44.9,0.9,7.3,0.2,Bejaia,not fire
+8,Aug,32,60,18,0.3,77.1,11.3,47.0,2.2,Bejaia,not fire
+20,Jun,31,72,14,0.2,60.2,3.8,8.0,0.8,Sidi-Bel Abbes,not fire
+6,Jun,35,54,11,0.1,83.7,8.4,26.3,3.1,Sidi-Bel Abbes,fire
+26,Jul,36,53,19,0.0,89.2,17.1,98.6,10.0,Bejaia,fire
+28,Jun,37,37,13,0.0,92.5,27.2,52.4,11.7,Sidi-Bel Abbes,fire
+18,Aug,36,54,18,0.0,89.4,20.0,110.9,9.7,Bejaia,fire
+1,Aug,36,45,14,0.0,78.8,4.8,10.2,2.0,Bejaia,not fire
+18,Jun,31,78,14,0.3,56.9,1.9,8.0,0.7,Bejaia,not fire
+25,Sep,28,70,15,0.0,79.9,13.8,36.1,2.4,Sidi-Bel Abbes,not fire
+23,Sep,35,56,14,0.0,89.0,29.4,115.6,7.5,Sidi-Bel Abbes,fire
+19,Aug,35,62,19,0.0,89.4,23.2,120.9,9.7,Bejaia,fire
+4,Jul,33,78,17,0.0,80.1,4.6,18.5,2.7,Bejaia,not fire
+30,Sep,25,78,14,1.4,45.0,1.9,7.5,0.2,Bejaia,not fire
+14,Jun,30,78,20,0.5,59.0,4.6,7.8,1.0,Bejaia,not fire
+27,Jul,29,87,18,0.0,80.0,11.8,28.3,2.8,Sidi-Bel Abbes,not fire
+18,Sep,36,33,13,0.1,90.6,25.8,77.8,9.0,Sidi-Bel Abbes,fire
+6,Aug,30,54,14,3.1,70.5,11.0,9.1,1.3,Sidi-Bel Abbes,not fire
+26,Aug,31,78,18,0.0,85.8,45.6,190.6,4.7,Bejaia,fire
+29,Aug,35,48,18,0.0,90.1,54.2,220.4,12.5,Bejaia,fire
+9,Sep,30,77,15,1.0,56.1,2.1,8.4,0.7,Bejaia,not fire
+28,Jul,33,57,16,0.0,87.5,15.7,37.6,6.7,Sidi-Bel Abbes,fire
+15,Sep,32,51,13,0.0,88.7,16.0,50.2,6.9,Sidi-Bel Abbes,fire
+2,Aug,40,34,14,0.0,93.3,10.8,21.4,13.8,Sidi-Bel Abbes,fire
+4,Aug,38,35,15,0.0,93.8,23.0,42.7,15.7,Sidi-Bel Abbes,fire
+5,Aug,34,65,13,0.0,86.8,11.1,29.7,5.2,Bejaia,fire
+24,Jun,35,68,16,0.0,85.3,10.0,17.0,4.9,Sidi-Bel Abbes,fire
+13,Jul,34,81,15,0.0,81.8,9.7,37.2,3.0,Bejaia,not fire
+18,Sep,32,49,11,0.0,89.4,9.8,33.1,6.8,Bejaia,fire
+12,Jul,31,75,13,0.1,75.1,7.9,27.7,1.5,Bejaia,not fire
+3,Sep,28,75,16,0.0,82.2,4.4,24.3,3.3,Sidi-Bel Abbes,fire
