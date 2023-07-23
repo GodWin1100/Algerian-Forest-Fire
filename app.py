@@ -5,6 +5,15 @@ from models import classification_model, regression_model
 app = Flask(__name__)
 
 CORS(app)
+
+print("Running")
+
+
+@app.get("/")
+def home():
+    return jsonify({"message": "Hello World"})
+
+
 @app.post("/classification")
 def classification():
     data = request.get_json()
@@ -53,5 +62,6 @@ def regression():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", debug=True)
+    # app.run(debug=True)
     # print(models.classification_model_path)

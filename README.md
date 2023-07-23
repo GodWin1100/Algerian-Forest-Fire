@@ -1,7 +1,7 @@
 # Algerian Forest Fire
 
 - EDA for Algerian Forest Fire dataset.
-- Classification and Regression Models for prediction between `fire` and `not-fire` and `Temperature` respectively.
+- Classification and Regression Models for predicting `Classes` between `fire` and `not-fire` and `Temperature` respectively.
 
 # ML Models
 
